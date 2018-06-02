@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-source "https://ruby.taobao.org" #使用淘宝的Gems镜像
-#source "https://rubygems.org"
+#source "https://ruby.taobao.org" #使用淘宝的Gems镜像
+source "https://rubygems.org"
 
 gem 'grape'
 # gem "rails"
