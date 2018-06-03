@@ -1,4 +1,4 @@
-# products-service
+# Micro Service in Action: products-service
 micro service in action
 
 
